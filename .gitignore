@@ -48,3 +48,6 @@ app.*.map.json
 .widget_preview/
 
 /lib/oracleJdk-27/
+
+# Local Oracle JDK - do not commit
+lib/oracleJdk-27/
